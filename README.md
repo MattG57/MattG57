@@ -3,9 +3,7 @@
 <!--
 **MattG57/MattG57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-_Organizations are built from three key ingredients: people, purpose, and coordination.
-
-I am passionate about elevating the importance of "how coordination happens" and how "coordinating structures" create leverage within and across organizations so we can support each other's purposes while pursuing our own._
+*Organizations are built from three key ingredients: people, purpose, and coordination. I am passionate about elevating the importance of "how coordination happens" and how "coordinating structures" create leverage within and across organizations so we can support each other's purposes while pursuing our own.*
 
  🔭 I’m currently working on ...
 
