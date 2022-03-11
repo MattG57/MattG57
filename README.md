@@ -31,7 +31,7 @@
 * Calendar link TBD
 
  😄 Pronouns: ...
-*he/his/him
+* he/his/him
 
  ⚡ Fun fact: ...
 * I was awarded my first Patent in 2020: [Platform Integrated IDE](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10,841,185.PN.&OS=PN/10,841,185&RS=PN/10,841,185).
