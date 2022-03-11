@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <!--
 **MattG57/MattG57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -29,7 +29,8 @@ I am passionate about elevating the importance of "how coordination happens" and
 
  📫 How to reach me: ...
 * @mattg57 on slack
-* @matthewegunter on twitter
+* 813-416-4216
+* Calendar link TBD
 
  😄 Pronouns: ...
 *he/his/him
